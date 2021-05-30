@@ -1,0 +1,63 @@
+
+
+#header
+{
+    display: flex;
+    position: fixed;
+    padding: 0px 20px;
+    
+}
+
+
+#header-img
+{
+    width: 25%;
+    height: auto;
+}
+
+#nav-bar
+{
+    text-align: right;
+    width: 100%;
+}
+
+ul
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+#form
+{
+    display:block;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    flex-wrap: inherit;
+}
+
+
+#features
+{
+    display:flex;
+    justify-content: center;
+    text-align: center;
+    
+}
+
+
+#how-it-works
+{
+    display:flex;
+    justify-content: center;
+    text-align: center;
+    
+}
+
+#pricing
+{
+    display:flex;
+    justify-content: center;
+    text-align: center;
+}
